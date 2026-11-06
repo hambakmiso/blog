@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" width="800" height="300" role="img" aria-label="산과 해가 있는 풍경">
+  <rect width="800" height="300" fill="#c9dcf2"/>
+  <circle cx="620" cy="85" r="42" fill="#f6c667"/>
+  <path d="M0 300 210 95l130 125 110-85 350 165Z" fill="#5b7fa6"/>
+  <path d="M0 300 150 200l150 60 170-90 330 130Z" fill="#35577c"/>
+</svg>

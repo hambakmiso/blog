@@ -1,0 +1,5 @@
+# 빌드 결과물. node build.js로 다시 만든다.
+dist/
+
+# Claude Code 개인 설정
+.claude/settings.local.json
